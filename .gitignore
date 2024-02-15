@@ -6,7 +6,6 @@
 # Ignore any logs
 /log/
 # Ignore configuration files
-/config/*.php
 Homestead.json
 Homestead.yaml
 auth.json
