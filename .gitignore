@@ -1,0 +1,20 @@
+/.phpunit.cache
+/node_modules
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+# Ignore any logs
+/log/
+# Ignore configuration files
+/config/*.php
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
